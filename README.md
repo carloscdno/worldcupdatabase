@@ -3,7 +3,7 @@ FCC Project from the Relational Databases course
 
 This is the second project from the Relational Databases course from FCC. I had to meet the following requirements:
 
-#Complete the tasks below
+# Complete the tasks below
 
 •	You should create a database named worldcup
 
